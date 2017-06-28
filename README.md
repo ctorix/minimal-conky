@@ -1,2 +1,2 @@
 # minimal-conky
-A minimalistic conky script
+A minimalistic conky script 
